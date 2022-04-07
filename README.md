@@ -9,7 +9,7 @@
 - 📫 How to reach me **brysahvidal@gmail.com**
 
 ## 
-![Metrics](https://metrics.lecoq.io/brysah?template=classic&base.community=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=brysah%2FGestao-Esportiva&config.timezone=America%2FSao_Paulo&config.twemoji=true&config.octicon=true&config.display=columns)
+![Metrics](https://metrics.lecoq.io/brysah?template=classic&base.header=0&base.community=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=brysah%2FGestao-Esportiva&config.timezone=America%2FSao_Paulo&config.display=columns)
 
 ## <h3 >Languages and Tools:</h3>
 
