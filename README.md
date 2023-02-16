@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Information Systems at  [UFJF - Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/)
 
-- 🌱 I’m currently learning **Java, ASP. NET, MYSQL and Python**
+- 🌱 I’m currently learning **React.js,Node.js and Tailwind**
 
 - 📫 How to reach me **brysahvidal@gmail.com**
 
