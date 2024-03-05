@@ -2,8 +2,6 @@
 
 <h3 align="center">A student developer passionate by technologies and it's power.</h3>
 
-- 🔭 I’m currently studying Information Systems at  [UFJF - Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/)
-
 - 🌱 Take a look at my [portfolio](https://brysah.webflow.io)
 
 - 📫 How to reach me **brysahvidal@gmail.com**
