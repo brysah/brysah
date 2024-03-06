@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brysah Vidal</h1>
 
-<h3 align="center">A student developer passionate by technologies and it's power.</h3>
+<h3 align="center">A developer passionate by technologies and it's power.</h3>
 
 - 🌱 Take a look at my [portfolio](https://brysah.webflow.io)
 
